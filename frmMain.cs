@@ -39,7 +39,7 @@ namespace prySotoPOO
 
             lblInfo.Text = objeto.Nombre + "\n"+
                 objeto.Fuerza + "\n" +
-                objeto.Destreza ;
+                objeto.Destreza;
 
         }
     }
